@@ -1,0 +1,41 @@
+{
+    "parts" : [
+        "there are no limits to what you can accomplish",
+        "there are limits to what you can accomplish",
+        "the limits you place on your own thinking",
+        "sometimes you will never know the value of a moment",
+        "it becomes a memory",
+        "you have amnesia",
+        "you are never too old",
+        "you are too old",
+        "you are never too old to set another goal",
+        "to dream a new dream",
+        "bottom text",
+        "just don't give up trying to do what you really want to do",
+        "just give up",
+        "where there is love and inspiration, I don't think you can go wrong",
+        "I don't think you can go wrong",
+        "make your life a masterpiece",
+        "imagine no limitations on what you can be",
+        "they're too small",
+        "if your dreams don't scare you",
+        "you're too small",
+        "you have a small penis",
+        "don't let anyone dull your sparkle",
+        "don't let the world change your smile",
+        "let your smile change the world",
+        "believe you can",
+        "you're halfway there",
+        "kill yourself",
+        "you're already halfway there"
+    ],
+    "conjoiners" : [
+        "except",
+        "until",
+        "or",
+        "and",
+        "but",
+        "because",
+        "to"
+    ]
+}

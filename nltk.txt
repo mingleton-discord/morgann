@@ -1,0 +1,4 @@
+wordnet
+sent_tokenize
+word_tokenize
+punkt
