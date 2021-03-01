@@ -2,3 +2,4 @@ wordnet
 sent_tokenize
 word_tokenize
 punkt
+averaged_perceptron_tagger
