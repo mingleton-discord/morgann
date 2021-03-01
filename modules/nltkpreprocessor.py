@@ -6,6 +6,8 @@
 import discord
 import nltk
 
+nltk.download('averaged_perceptron_tagger')
+
 from nltk.corpus import wordnet
 from nltk.tokenize import sent_tokenize, word_tokenize
 from nltk.stem import PorterStemmer
