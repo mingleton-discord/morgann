@@ -1,5 +1,5 @@
 {
-    "clientKey" : "NzA1NTQ4NTc3MTM2NTc0NTc2.XsnX8A.eXdGCtb6IuuudJnXMZQZQC2dGuQ",
+    "clientKey" : "NzA1NTQ4NTc3MTM2NTc0NTc2.XqtTUQ.sL2gzkXI5GT6Gb277AOZzG3Zm4Y",
     "dbURL" : "postgres://olarfgxcfafpsy:b3bebe37727806dad78b53dd80fc5e904faa090361c71e2eb1aab34307d27039@ec2-52-202-22-140.compute-1.amazonaws.com:5432/d30r31r1lemnbo",
     "aliases" : ["MORGANN", "MORGAN", "MORGO"]
 }
