@@ -14,7 +14,7 @@ import json
 
 from modules import nltkpreprocessor as preprocessor
 from modules import insultmanager, quotemanager, guildmanager, adminverify, recognudges
-from commandmodules import helpcommands, insultcommands, awardcommands, quotecommands, admincommands, japcommands
+from commandmodules import helpcommands, insultcommands, awardcommands, quotecommands, admincommands, japcommands, sandwichshare
 
 logging.basicConfig(level = logging.WARNING)
 
@@ -147,7 +147,7 @@ async def on_message(message):
 
     
 # INIT MODULES
-loadedModules = [helpcommands, insultcommands, awardcommands, quotecommands, admincommands, japcommands]
+loadedModules = [helpcommands, insultcommands, awardcommands, quotecommands, admincommands, japcommands, sandwichshare]
 helpcommands.initialize(client)
 insultcommands.initialize(client, conn)
 awardcommands.initialize(client, conn)
@@ -155,6 +155,7 @@ quotecommands.initialize(client, conn)
 admincommands.initialize(client, conn)
 recognudges.initialize()
 japcommands.initialize()
+sandwichshare.initialize(client)
 
 preprocessor.initialize(configOptions["aliases"])
 insultmanager.initialize(conn, client)
